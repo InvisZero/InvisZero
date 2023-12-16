@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Moinak Saha .<br>>>A passionate learner from India paving it's way through this matrix<br>🌱I'm currently Learning JavaScript and game development.<br>
 
-https://learn.unity.com/u/657728b7edbc2a10cd7ad849
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/554911578483458048) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moinak_saha_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moinak-saha-253b5625b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MoinakSaha30) 
 
